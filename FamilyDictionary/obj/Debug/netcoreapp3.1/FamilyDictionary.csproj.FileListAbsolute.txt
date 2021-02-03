@@ -1,0 +1,13 @@
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\bin\Debug\netcoreapp3.1\FamilyDictionary.exe
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\bin\Debug\netcoreapp3.1\FamilyDictionary.deps.json
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\bin\Debug\netcoreapp3.1\FamilyDictionary.runtimeconfig.json
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\bin\Debug\netcoreapp3.1\FamilyDictionary.runtimeconfig.dev.json
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\bin\Debug\netcoreapp3.1\FamilyDictionary.dll
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\bin\Debug\netcoreapp3.1\FamilyDictionary.pdb
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\obj\Debug\netcoreapp3.1\FamilyDictionary.csprojAssemblyReference.cache
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\obj\Debug\netcoreapp3.1\FamilyDictionary.AssemblyInfoInputs.cache
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\obj\Debug\netcoreapp3.1\FamilyDictionary.AssemblyInfo.cs
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\obj\Debug\netcoreapp3.1\FamilyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\obj\Debug\netcoreapp3.1\FamilyDictionary.dll
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\obj\Debug\netcoreapp3.1\FamilyDictionary.pdb
+C:\Users\rmpfo\source\repos\FamilyDictionary\FamilyDictionary\obj\Debug\netcoreapp3.1\FamilyDictionary.genruntimeconfig.cache
